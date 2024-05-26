@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.pixabay.com/photo/2016/08/05/09/32/banner-1571872_960_720.jpg)
 <h1 align="center">Hi 👋, I'm Ghala Buarish</h1>
 <h3 align="center">I am a sophomore studying Electrical and Computer Engineering at NYU</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:700/1*krJsZsRUsIz3kCEW8VaC0A.gif">
+<img align="right" alt="Coding" width="380" src="https://miro.medium.com/v2/resize:fit:700/1*krJsZsRUsIz3kCEW8VaC0A.gif">
 
 - 🌱 **She/Her**
 
