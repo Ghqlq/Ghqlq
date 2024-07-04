@@ -3,7 +3,7 @@
 
 - 🌱 **She/Her**
 
-- 🧩 I’m currently learning **Object Oriented Programming in C++**
+- 🧩 I’m currently learning **Object Oriented Programming in C++** and **Machine Learning**
 
 - 📫 How to reach me **gb2789@nyu.edu**
 
