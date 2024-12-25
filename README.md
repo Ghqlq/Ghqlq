@@ -17,3 +17,7 @@
 
 <a href="http://www.github.com/ghqlq"><img src="https://github-readme-stats.vercel.app/api?username=ghqlq&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ghqlq's GitHub stats" /></a>
 <a href="https://github.com/ghqlq" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghqlq&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>My LeetCode stats</b>
+
+![My LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/Ghqla?theme={neutral}&bgColor={hex_val})
