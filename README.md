@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏽, I'm Ghala Buarish</h1>
+<h1 align="center">I'm Ghala Buarish</h1>
 <h3 align="center">Junior year student studying Electrical and Computer Engineering at NYU</h3>
 
 - 🌱 **She/Her**
