@@ -1,16 +1,37 @@
-<h1 align="center">I'm Ghala Buarish</h1>
-<h3 align="center">Senior year student studying Electrical and Computer Engineering at NYU</h3>
+<h1 data-importer="text" align="left">Ghala Buarish</h1>
 
-- 🌱 **She/Her**
+###
 
-- 📫 How to reach me **gb2789@nyu.edu**
+<h3 data-importer="text" align="center">Senior year student studying Electrical & Computer Engineering at NYU</h3>
 
-<b>Languages:</b> </p> <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> </p> 
+###
 
-<b>Connect with me:</b> <p align="left"> <a href="https://www.github.com/ghqlq" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ghalabuarish" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<h4 data-importer="text" align="left">Languages</h4>
 
-<b>My GitHub Stats</b>
+###
 
-<a href="http://www.github.com/ghqlq"><img src="https://github-readme-stats.vercel.app/api?username=ghqlq&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ghqlq's GitHub stats" /></a>
-<a href="https://github.com/ghqlq" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghqlq&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
+###
+
+<div data-importer="stats" align="right">
+  <img src="https://raw.githubusercontent.com/ghqlq/ghqlq/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h6 data-importer="text" align="left">Email: gb2789@nyu.edu</h6>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="www.linkedin.com/in/ghalabuarish" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
