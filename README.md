@@ -13,6 +13,6 @@
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Ghqlq&repo=FPGA-SpMV-Optimization-ICTP&description_lines_count=3&theme=great-gatsby" />
   </a>
   <a href="https://github.com/Ghqlq/CLUE-FPGA-Porting-CERN.git">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ghqlq&repo=CLUE-Alpaka-FPGA&description_lines_count=3&theme=great-gatsby" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Ghqlq&repo=CLUE-FPGA-Porting-CERN&description_lines_count=3&theme=great-gatsby" />
   </a>
 </p>
